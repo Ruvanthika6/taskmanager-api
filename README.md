@@ -24,7 +24,7 @@ PORT=3000
 Start the server
 node server.js
 
-Server will run at http://localhost:3000
+
 
 API Endpoints
 1. Create Task
